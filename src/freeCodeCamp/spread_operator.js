@@ -1,6 +1,5 @@
 const ADD_TO_DO = "ADD_TO_DO";
 
-// A list of strings representing tasks to do:
 const todos = [
   "Go to the store",
   "Clean the house",
