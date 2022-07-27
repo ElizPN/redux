@@ -61,7 +61,7 @@ class DisplayMessages extends React.Component {
     );
   }
 }
-
+// to provide React access to the Redux store and the actions
 const Provider = ReactRedux.Provider;
 
 class AppWrapper extends React.Component {
